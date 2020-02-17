@@ -20,7 +20,6 @@ import (
 	"errors"
 
 	"github.com/bcicen/jstream"
-	"github.com/minio/simdjson-go"
 )
 
 var (

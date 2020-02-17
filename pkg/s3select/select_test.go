@@ -30,7 +30,6 @@ import (
 
 	"github.com/klauspost/cpuid"
 	"github.com/minio/minio-go/v6"
-	"github.com/minio/simdjson-go"
 )
 
 type testResponseWriter struct {
