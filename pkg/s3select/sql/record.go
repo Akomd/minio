@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/minio/simdjson-go"
+	"github.com/Akomd/simdjson-go"
 )
 
 // SelectObjectFormat specifies the format of the underlying data

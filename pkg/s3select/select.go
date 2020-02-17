@@ -32,7 +32,7 @@ import (
 	"github.com/minio/minio/pkg/s3select/parquet"
 	"github.com/minio/minio/pkg/s3select/simdj"
 	"github.com/minio/minio/pkg/s3select/sql"
-	"github.com/minio/simdjson-go"
+	"github.com/Akomd/simdjson-go"
 )
 
 type recordReader interface {
