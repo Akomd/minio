@@ -70,7 +70,7 @@ require (
 	github.com/minio/minio-go/v6 v6.0.45
 	github.com/minio/parquet-go v0.0.0-20200125064549-a1e49702e174
 	github.com/minio/sha256-simd v0.1.1
-	github.com/Akomd/simdjson-go
+	github.com/Akomd/simdjson-go master
 	github.com/minio/sio v0.2.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
